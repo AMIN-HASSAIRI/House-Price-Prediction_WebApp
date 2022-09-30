@@ -1,0 +1,28 @@
+body{
+    background-color: #b4fadc;
+    text-align: center;
+}
+
+.navbar{
+    background-color: #28b578;
+}
+
+.navbar-brand{
+    font-size: 40px;
+}
+
+a{
+    color: #b4fadc;
+}
+
+a:hover{
+    color: #fccad7;
+}
+.btn-secondary{
+
+}
+
+.footer{
+    background-color: #f1f1f1;
+    padding: 6px;
+}
